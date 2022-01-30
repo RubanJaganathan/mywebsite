@@ -1,6 +1,6 @@
 body {
     background-color:rgb(84, 123, 250);
-    text-align:left;
+    text-align:center;
     padding: 0px;
     margin:0px;
     color: rgb(255, 255, 255);
@@ -24,7 +24,16 @@ body {
 /* Change the color of links on hover */
 .topnav a:hover {
     background-color: rgb(255, 255, 255);
-    color: black;
+    color: black ;
+}
+.formdiv{
+    display: flex;
+    justify-content: center;
 }
 
-  
+.data{
+    border:solid 15px rgb(120, 190, 255); 
+    width: 350px; 
+    padding:20px;
+    text-align: left;
+}
