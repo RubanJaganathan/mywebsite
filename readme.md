@@ -31,3 +31,11 @@ pip install numpy
 def fun(n,m):
     return n+m
 ```
+|name   |email          |
+|-      |-------------- |
+|ruban  |doom1@gmail.com|
+|nathan |doom2@gmail.com|
+
+[x] task 1
+[x] task 2 
+[ ] task 3
