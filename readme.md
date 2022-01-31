@@ -1,6 +1,6 @@
 # Hi!
 I am Ruban.
-This is a webpage i am making in order to understand html, css and git.
+nice to meet you
 ## h2
 #### h4
 *italic*  _italic_
