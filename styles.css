@@ -50,3 +50,7 @@ body {
 .copyright{
 border-top: 1px solid #04AA6D; 
 }
+input {
+    float: right;
+}
+  
